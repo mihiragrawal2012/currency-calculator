@@ -1,0 +1,38 @@
+body {
+  background-image: url("bimage.jpg");
+  width: 100%;
+  text-align: center;
+}
+
+h1, h2 {
+  /* text-align: center; */
+  margin: 2.5%;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 4rem;
+  letter-spacing: 3px;
+  font-family: 'Girassol', cursive;
+  text-decoration: underline;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.subhead {
+  font-family: 'Poppins', sans-serif;
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+
+.input {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 0% 3%;
+  width: 30%;
+  height: 30px;
+  background: none;
+}
